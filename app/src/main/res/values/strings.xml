@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">PersonalCalculator</string>
+    <string name="COProject">CO Project</string>
+    <string name="StandardCalculator">Standard Calculator</string>
+    <string name="ScientificCalculator">Scientific Calculator</string>
+    <string name="PersonalCalculator">Personal Calculator</string>
+    <string name="Input">Input</string>
+    <string name="C">C</string>
+    <string name="backspace">⌫</string>
+    <string name="pi">π</string>
+    <string name="Divide">/</string>
+    <string name="cube">x\u00B3</string>
+    <string name="xpown">xⁿ</string>
+    <string name="epown">eⁿ</string>
+    <string name="tenpow">10\u207F</string>
+    <string name="sininv">sin\u207B\u00B9</string>
+    <string name="cosinv">cos\u207B\u00B9</string>
+    <string name="taninv">tan\u207B\u00B9</string>
+    <string name="sqrt">√</string>
+    <string name="cuberoot">\u221B</string>
+    <string name="Mod">%</string>
+
+</resources>
